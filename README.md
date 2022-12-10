@@ -3,6 +3,11 @@ Redis interaction with node.js
 
 Create a ```.env``` file using ```.env.sample``` file
 
+Install packages using this command
+```
+npm install express axios redis dotenv
+```
+
 To run this app locally just enter the code in termnal and press enter
 
 ``` 
